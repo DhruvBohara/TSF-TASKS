@@ -1,6 +1,9 @@
 # TSF-TASKS
 Data Science and Business Analytics Tasks
+
+
 Task 1: Prediction using Supervised ML
+
 ● Predict the percentage of an student based on the no. of study hours.
 ● This is a simple linear regression task as it involves just 2 variables.
 ● You can use R, Python, SAS Enterprise Miner or any other tool
@@ -15,6 +18,7 @@ LinkedIn profile, not TSF Network.
 3. Submit the LinkedIn link in Task Submission Form when shared.
 
 Task 3: Exploratory Data Analysis - Retail
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 ● As a business manager, try to find out the weak areas where you can work to
 make more profit.
